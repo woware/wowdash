@@ -1,2 +1,0 @@
-# wowdash
-A dashbord template
